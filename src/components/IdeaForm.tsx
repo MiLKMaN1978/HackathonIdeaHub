@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import type { Idea } from '../types';
 import Button from './Button';

@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const Spinner = ({ size = 'w-5 h-5' }: { size?: string }) => {
