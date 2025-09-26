@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import type { Idea, Comment, TechStackSuggestion } from '../types';
 import Modal from './Modal';

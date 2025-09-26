@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import type { Comment } from '../types';
 import Button from './Button';

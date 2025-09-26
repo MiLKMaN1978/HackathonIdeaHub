@@ -1,4 +1,3 @@
-
 import React from 'react';
 import type { Idea } from '../types';
 import IdeaCard from './IdeaCard';
